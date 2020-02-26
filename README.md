@@ -10,7 +10,7 @@
 
 Hello World! I am Mr. Clifford. I am a Computer Science teacher at Brockton High School. I am also the Web Content Mangager for Brockton Public Schools. 
 
-Outside of work,  I love to learn expand my knowledge of programming. i took the Udacity Blockchain Developer Nanodegree course and earned my certificate. I also love to workout. I try to make it to the gym 5 times a week. The gym is a healthy way for me to relieve stress. My favorite sport is soccer and my favorite team is Manchester United. But of course, I love my New England Teams (Patriots, Red Sox, and Bruins).
+Outside of work,  I love to learn expand my knowledge of programming. I took the Udacity Blockchain Developer Nanodegree course and earned my certificate. I also love to workout. I try to make it to the gym 5 times a week. The gym is a healthy way for me to relieve stress. My favorite sport is soccer and my favorite team is Manchester United. But of course, I love my New England Teams (Patriots, Red Sox, and Bruins).
 
 ...and I love Pixar!
 
